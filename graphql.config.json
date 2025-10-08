@@ -1,0 +1,4 @@
+{
+  "schema": "https://didactic-doodle-4jgrg7xxww6rfq7qg-3000.app.github.dev/graphql",
+  "documents": "src/api/graphql/**/*.{js,jsx}"
+}
